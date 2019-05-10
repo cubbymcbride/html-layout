@@ -1,0 +1,52 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.line {
+width: 100%;
+height: 100px;
+}
+
+.headerline{
+    padding: 25px;
+    box-sizing: border-box;
+    background-color: lightslategray 
+}
+
+.headerline-div {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+}
+
+.maincontent {
+    width: 100%;
+    height: 200px;  
+}
+
+.meatandtaters {
+
+}
+
+.line-1 {
+    background-color: purple
+}
+
+.line-2 {
+    background-color: yellow
+}
+
+.line-3 {
+    background-color: orange
+}
+
+.line-4 {
+    background-color: blue
+}
+
+.line-12 {
+    background-color: cyan;
+    box-sizing: border-box;
+    padding: 50px
+}
